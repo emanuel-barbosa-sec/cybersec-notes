@@ -1,3 +1,2 @@
 # CyberSecurity Notes & Writeups
-Personal notes and Writeups documenting my cybersecurity learning journey.
-Student @ISTEC Porto | CTeSP CyberSecurity
+Personal cybersecurity notes and writeups created while studying on TryHackMe and other platforms.
